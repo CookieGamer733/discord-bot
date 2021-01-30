@@ -48,3 +48,6 @@ If you did the steps above correctly, you should be able to go run your discord 
        - This is a developer command. If you know how to use it, great! If you don't know how to use it, you don't need to use it.
     - kill.ts
        - This shuts down the bot. Simple as that.
+
+## License
+[ISC](/LICENSE)
